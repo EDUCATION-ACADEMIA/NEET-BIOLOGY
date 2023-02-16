@@ -168,6 +168,27 @@ color: black;
 
 
 
+.wrapper {
+    overflow: hidden;
+}
+.site-content {
+   padding-bottom: 100%;
+    margin-bottom: -100%;
+}
+
+.widget-area {
+   padding-bottom: 100%;
+    margin-bottom: -100%;
+}
+
+
+
+
+
+
+
+
+
 
 
 
